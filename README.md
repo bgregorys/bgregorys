@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bgregorys
-- 👀 I’m interested in linux, vim, LaTeX, python
+- 👀 I’m interested in linux, neovim, LaTeX, python
 - 🌱 I’m currently learning bash 
 - 📫 How to reach me ...
 
